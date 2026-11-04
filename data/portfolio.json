@@ -1,0 +1,98 @@
+{
+  "updatedAt": "2026-11-04",
+  "companies": [
+    {
+      "ticker": "SDRC",
+      "name": "Sidney Resources",
+      "project": "Warren District",
+      "state": "Idaho",
+      "metals": ["Gold", "Silver", "Rare Earths"],
+      "stage": "Development / Pilot Production",
+      "progress": 60,
+      "summary": "Advancing high-grade gold and silver toward commercial production at the Lucky Ben mine, with a firm offtake partner in place.",
+      "milestones": [
+        { "date": "2026-07-01", "title": "Former Idaho Governor C.L. \"Butch\" Otter appointed Chairman", "status": "done", "source": "Company news release, Jul 1, 2026" },
+        { "date": "2026-07-06", "title": "Underground update at Lucky Ben: about 50 ft from target", "status": "done", "source": "Company video update, Jul 6, 2026" },
+        { "date": "2026-07-15", "title": "Meeting with U.S. Senator Jim Risch", "status": "done", "source": "Company post, Jul 15, 2026" },
+        { "date": "2026-07-29", "title": "Announced $222.7M staged development plan", "status": "done", "source": "Company news release, Jul 29, 2026" },
+        { "date": "2026-08-04", "title": "Firm gold offtake agreement with Ocean Partners (global metals trader)", "status": "done", "source": "Company news release, Aug 4, 2026" },
+        { "date": "2026-08-14", "title": "Q2 FY2026 update released", "status": "done", "source": "Company quarterly update, Aug 14, 2026" },
+        { "date": "2026-10-20", "title": "Statement regarding MSHA inspections", "status": "done", "source": "Company statement, Oct 20, 2026" },
+        { "date": "2026-11", "title": "NI 43-101 technical report (independent resource estimate)", "status": "upcoming", "source": "Planned per Jul 29, 2026 news release" },
+        { "date": "2026-11", "title": "Q3 2026 quarterly report", "status": "upcoming", "source": "Expected mid-November" }
+      ]
+    },
+    {
+      "ticker": "XTPT",
+      "name": "American Antimony",
+      "project": "Bernice Canyon",
+      "state": "Nevada",
+      "metals": ["Antimony", "Gold", "Silver"],
+      "stage": "Exploration → Development",
+      "progress": 35,
+      "summary": "Moving from exploration toward small-mine development of domestic antimony, a critical mineral for defense and energy.",
+      "milestones": [
+        { "date": "2026-08-13", "title": "Q2 2026 update: \"From Exploration Toward Development\"", "status": "done", "source": "Company quarterly update, Aug 13, 2026" },
+        { "date": "2026-09-17", "title": "Completed independent audit under PCAOB standards", "status": "done", "source": "Company news release, Sep 17, 2026" },
+        { "date": "2026-10-07", "title": "Arrance selected as initial resource and production target", "status": "done", "source": "Company news release, Oct 7, 2026" },
+        { "date": "2026-10-19", "title": "Small-mine development underway; historic roadwork started", "status": "done", "source": "Company news release, Oct 19, 2026" },
+        { "date": "2026-10-28", "title": "Road restoration across Bernice Canyon: Phase II update", "status": "in_progress", "source": "Company update, Oct 28, 2026" }
+      ]
+    },
+    {
+      "ticker": "PTEL",
+      "name": "Pegasus Tel",
+      "project": "Arizona",
+      "state": "Arizona",
+      "metals": ["Manganese", "Gold"],
+      "stage": "Exploration",
+      "progress": 15,
+      "summary": "Milestone timeline coming soon.",
+      "milestones": []
+    },
+    {
+      "ticker": "BYRG",
+      "name": "Buyer Group International",
+      "project": "Wyoming",
+      "state": "Wyoming",
+      "metals": ["Copper", "Platinum Group Metals"],
+      "stage": "Exploration",
+      "progress": 10,
+      "summary": "Milestone timeline coming soon.",
+      "milestones": []
+    },
+    {
+      "ticker": "NALG",
+      "name": "North America Lithium & Gold",
+      "project": "Arizona",
+      "state": "Arizona",
+      "metals": ["Lithium", "Gold"],
+      "stage": "Exploration",
+      "progress": 10,
+      "summary": "Milestone timeline coming soon.",
+      "milestones": []
+    }
+  ],
+  "faq": [
+    {
+      "q": "What is an offtake agreement?",
+      "a": "A contract in which a buyer agrees in advance to purchase a mine's future output. SDRC announced a firm gold offtake agreement with Ocean Partners on Aug 4, 2026, so a buyer is lined up for its material."
+    },
+    {
+      "q": "What is an NI 43-101 report?",
+      "a": "An independent technical report, prepared by a qualified professional, that estimates how much metal is in the ground and how confident that estimate is. SDRC's July 29, 2026 news release referenced a planned November 43-101."
+    },
+    {
+      "q": "When are quarterly reports published?",
+      "a": "OTC companies typically publish quarterly reports within about 45 days of quarter end, so Q3 2026 updates are generally expected around mid-November."
+    },
+    {
+      "q": "What are MSHA inspections?",
+      "a": "The U.S. Mine Safety and Health Administration routinely inspects active mines. SDRC published a statement about its MSHA inspections on Oct 20, 2026."
+    },
+    {
+      "q": "What does XTPT's PCAOB audit mean?",
+      "a": "American Antimony completed an independent audit under PCAOB standards (Sep 17, 2026), which the company described as initiating its next phase of corporate development."
+    }
+  ]
+}
