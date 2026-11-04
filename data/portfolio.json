@@ -13,7 +13,7 @@
       ],
       "stage": "Development / Pilot Production",
       "progress": 60,
-      "summary": "Advancing high-grade gold and silver toward commercial production at the Lucky Ben mine, with a firm offtake partner in place.",
+      "summary": "Advancing high-grade gold and silver toward commercial production in Idaho's Warren District, with federal approval to mobilize ore for its Ocean Partners offtake.",
       "milestones": [
         {
           "date": "2026-07-01",
@@ -52,22 +52,64 @@
           "source": "Company quarterly update, Aug 14, 2026"
         },
         {
+          "date": "2026-09",
+          "title": "U.S. Forest Service approved operating plan to mobilize historic Knott ore",
+          "status": "done",
+          "source": "Company news release, Nov 4, 2026"
+        },
+        {
           "date": "2026-10-20",
           "title": "Statement regarding MSHA inspections",
           "status": "done",
           "source": "Company statement, Oct 20, 2026"
         },
         {
-          "date": "2026-11",
-          "title": "NI 43-101 technical report (independent resource estimate)",
-          "status": "upcoming",
-          "source": "Planned per Jul 29, 2026 news release"
+          "date": "2026-10-27",
+          "title": "BLM on-site review of the Unity Project completed",
+          "status": "done",
+          "source": "Company news release, Nov 4, 2026"
+        },
+        {
+          "date": "2026-11-04",
+          "title": "MSHA terminated 35 of 50 citations (70%); 15 being addressed",
+          "status": "done",
+          "source": "Company news release, Nov 4, 2026"
+        },
+        {
+          "date": "2026-11-04",
+          "title": "Lucky Ben heading about 20 ft from planned breakthrough",
+          "status": "done",
+          "source": "Company news release, Nov 4, 2026"
+        },
+        {
+          "date": "2026-11-04",
+          "title": "Knott ore mobilization pending archaeological monitors",
+          "status": "in_progress",
+          "source": "Company news release, Nov 4, 2026"
+        },
+        {
+          "date": "2026-11-04",
+          "title": "Technical framework for future S-K 1300 / NI 43-101 resource evaluation",
+          "status": "in_progress",
+          "source": "Company news release, Nov 4, 2026"
         },
         {
           "date": "2026-11",
           "title": "Q3 2026 quarterly report",
           "status": "upcoming",
           "source": "Expected mid-November"
+        },
+        {
+          "date": "2026-11",
+          "title": "Unity baseline water-quality sampling (third week, weather permitting)",
+          "status": "upcoming",
+          "source": "Company news release, Nov 4, 2026"
+        },
+        {
+          "date": "2026-12",
+          "title": "Winter on-site crushing for Ocean Partners offtake (initial 30% payment on qualifying crushing)",
+          "status": "upcoming",
+          "source": "Planned for winter per Nov 4, 2026 news release"
         }
       ]
     },
@@ -163,11 +205,15 @@
   "faq": [
     {
       "q": "What is an offtake agreement?",
-      "a": "A contract in which a buyer agrees in advance to purchase a mine's future output. SDRC announced a firm gold offtake agreement with Ocean Partners on Aug 4, 2026, so a buyer is lined up for its material."
+      "a": "A contract in which a buyer agrees in advance to purchase a mine's future output. SDRC has a 25,000-tonne gold and silver ore offtake agreement with Ocean Partners, including an initial 30% payment upon qualifying on-site crushing, which the company plans for this winter."
     },
     {
       "q": "What is an NI 43-101 report?",
-      "a": "An independent technical report, prepared by a qualified professional, that estimates how much metal is in the ground and how confident that estimate is. SDRC's July 29, 2026 news release referenced a planned November 43-101."
+      "a": "An independent technical report, prepared by a qualified professional, that estimates how much metal is in the ground and how confident that estimate is. SDRC's Nov 4, 2026 update says it is building the technical framework for a future resource evaluation, with drilling proceeding in stages as funding and access permit."
+    },
+    {
+      "q": "Why hasn't the Knott ore mobilization started?",
+      "a": "The approved plan requires archaeological monitoring during road construction and ore movement. SDRC said in its Nov 4, 2026 update that the availability of qualified monitors has delayed the start, and that crushing is planned for winter with shipments as road conditions permit."
     },
     {
       "q": "When are quarterly reports published?",
@@ -175,7 +221,7 @@
     },
     {
       "q": "What are MSHA inspections?",
-      "a": "The U.S. Mine Safety and Health Administration routinely inspects active mines. SDRC published a statement about its MSHA inspections on Oct 20, 2026."
+      "a": "The U.S. Mine Safety and Health Administration routinely inspects active mines. As of SDRC's Nov 4, 2026 update, 35 of the 50 citations and orders from the August inspections (70%) have been terminated, and the remaining 15 are being addressed."
     },
     {
       "q": "What does XTPT's PCAOB audit mean?",
