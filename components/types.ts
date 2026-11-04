@@ -34,7 +34,7 @@ export function formatDate(d: string): string {
 }
 
 export const statusMeta: Record<MilestoneStatus, { label: string; dot: string; text: string }> = {
-  done: { label: "Completed", dot: "bg-emerald-400", text: "text-emerald-300" },
-  in_progress: { label: "In progress", dot: "bg-sky-400 animate-pulse", text: "text-sky-300" },
-  upcoming: { label: "Upcoming", dot: "bg-gold-400", text: "text-gold-400" },
+  done: { label: "Completed", dot: "bg-gray-800", text: "text-gray-700" },
+  in_progress: { label: "In progress", dot: "bg-brand", text: "text-brand" },
+  upcoming: { label: "Upcoming", dot: "border border-brand bg-white", text: "text-brand" },
 };
